@@ -23,4 +23,4 @@ def read_root():
         "developer": "bihurin",
         "description": "delivery package",
         "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    }
+}
